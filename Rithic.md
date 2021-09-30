@@ -1,0 +1,6 @@
+HOTEL MANAGEMENT SYSTEM IN C PROGRAMMING
+
+LOGIN DETAILS:
+
+Username: user
+Password: pass
