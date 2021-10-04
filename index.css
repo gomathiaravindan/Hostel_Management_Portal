@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:'Cinzel', serif;
+}
+.container
+{
+    position: absolute;
+    margin-left:30%;
+    margin-top:40px;
+    width:70px !important;
+    background-color:#FF5733;
+    text-align:center;
+    display:flex;
+    justify-content: space-between;
+    opacity:0.9;
+    box-sizing:border-box;
+}
+.container .wrapper
+{
+    position:relative;
+    padding:30px;
+    margin:30px;
+    
+}
+.container form label{
+    font-weight:bold;
+    font-style:italic;
+}
+.container form input{
+    font-weight:bold;
+    font-style:italic;
+    padding:5px;
+    margin:5px;
+}
+
+.container form input[type="submit"]
+{
+    border-radius:40px;
+    padding:5px 10px;
+    background-color:#1F9439;
+    width:50%;
+}
