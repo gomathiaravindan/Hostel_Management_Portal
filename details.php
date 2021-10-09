@@ -22,10 +22,10 @@
                     <a class="nav-link active text-white" aria-current="page" href="index.php" style="font-weight:500;font-size:20px;">Admin</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link text-white" href="#" style="font-weight:500;font-size:20px;">Complaint Forum</a>
+                    <a class="nav-link text-white" href="complaint.php" style="font-weight:500;font-size:20px;">Complaint Forum</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link text-white" href="#" style="font-weight:500;font-size:20px;">Profile</a>
+                    <a class="nav-link text-white" href="profile.php" style="font-weight:500;font-size:20px;">Profile</a>
                     </li>
                     
                 </ul>
